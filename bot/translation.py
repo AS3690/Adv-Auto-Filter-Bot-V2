@@ -27,7 +27,7 @@ For More Details Click Help Button Below..
                 OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
      <code>/add @Username</code>
      
-    -> <code>/del chat_id</code>
+    -> <code>/del chat_id</code>gg
                 OR                  - To disconnect A Group With A Channel
      <code>/del @Username</code>
      
@@ -55,4 +55,4 @@ For More Details Click Help Button Below..
 <b>➥ Library</b> : <i><a href="https://docs.pyrogram.org">Pyrogram Asyncio 1.13.0 </a></i>
 
 <b>➥ Source Code</b> : <i><a href="https://github.com/AlbertEinsteinTG/Adv-Auto-Filter-Bot">Click Me</a></i>
-"""
+""
